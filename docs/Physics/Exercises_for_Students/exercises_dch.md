@@ -33,7 +33,7 @@ What makes this topic particularly compelling is the number of free parameters i
 
 ---
 
-#### Deliverables: 12
+#### Deliverables: 
 
 1.  A Markdown document with Python script or notebook implementing the simulations.
 2.  A detailed description of the family of solutions derived from the governing equations.
